@@ -70,7 +70,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-module.exports = 'wrong'
+module.exports = 'wrongaaaaaa'
 
 /***/ }),
 /* 1 */
@@ -85,7 +85,7 @@ module.exports = 'wrong'
 var wrong = __webpack_require__(0);
 __webpack_require__(1)
 
-document.write('?!!!?挺快的吗');
+document.write('?!!!?挺sdadsdsad快的sddadasdsa吗');
 document.write(wrong);
 
 /***/ })
